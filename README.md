@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/IzGclPs" width="250" style="border-radius:10px" align="right">
+<img src="https://i.imgur.com/bD3IxBR.png" width="250" style="border-radius:10px" align="right">
 
 ## Hi there, I'm David Rosario
 ### Contact Me!
