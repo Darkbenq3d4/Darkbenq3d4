@@ -1,4 +1,4 @@
-<img src="https://instagram.fhex4-1.fna.fbcdn.net/v/t51.2885-15/e35/76868004_1034950420195625_1162442271129988518_n.jpg?_nc_ht=instagram.fhex4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=eQYMGQ_axdIAX9AML8A&tp=1&oh=6eb869b95ea5584f4dca5b6eed34384e&oe=602CDD62" width="250" style="border-radius:10px" align="right">
+<img src="https://imgur.com/a/IzGclPs" width="250" style="border-radius:10px" align="right">
 
 ## Hi there, I'm David Rosario
 ### Contact Me!
