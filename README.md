@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/david-alberto-rosario-llaugel-60a53b1a1/"><img src="https://alianzaong.org.do/wp-content/uploads/2011/06/LinkedIn-Logo-500x500.png" width="25"></a>&nbsp;&nbsp;
 <a href="mailto:darosario3d@gmail.com"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" height="25"></a>
 
-## Junior Software Developer
+## Software Developer 
 
 # Knowledge in: 
 ## Frontend
